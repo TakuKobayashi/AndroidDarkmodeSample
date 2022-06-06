@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">AndroidDarkmodeSample</string>
-    <string name="hello_center_text">Hello World Light Mode</string>
+    <string name="hello_center_text">Hello World Dark Mode</string>
 </resources>
